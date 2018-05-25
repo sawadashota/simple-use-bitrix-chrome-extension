@@ -1,0 +1,15 @@
+.upgrade-btn {
+  display: none !important;
+}
+
+.user-block {
+  text-align: right;
+}
+
+#bx-im-external-recent-list {
+  display: none;
+}
+
+#bx-im-btn-call {
+  display: none;
+}
