@@ -1,6 +1,6 @@
 {
   "name": "Simple Use Bitrix",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
   "description": "Hide unneeded elements for users who wants use Bitrix simply",
   "permissions": ["https://*.bitrix24.com/*"],
